@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ngChat"
+    }
+  },
+  "defaultProject": "ngChat",
+  "cli": {
+    "analytics": false
+  }
 }
